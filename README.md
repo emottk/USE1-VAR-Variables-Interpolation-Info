@@ -30,7 +30,7 @@ We can also use variables within our strings. This is called **string interpolat
 	"Hi #{name}, how are you?"
 		>>"Hi Jenny, how are you?"
 
-Here we use the `#{ }` interpolation syntax to inject our variable into our string. When Ruby runs the program, it will find the variable called `name` and print it inside the string. This is great, now we can personalize all of our strings!		
+Here we use the `#{ }` interpolation syntax to inject our variable into our string. When Ruby runs the program, it will find the variable called `name` and print it inside the string. This is great, now we can personalize all of our strings!				
 We can also incorporate our variables into strings using **concatenation**.
 
 	weather = "sunny"
