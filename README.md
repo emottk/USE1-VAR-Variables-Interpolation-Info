@@ -36,7 +36,7 @@ We can also incorporate our variables into strings using **concatenation**.
 
 	weather = "sunny"
 	print "The weather today is " + weather
-	>> "The weather today is sunny!"
+	>> "The weather today is sunny"
 
 Ruby uses the addition sign here to push these two strings into one!		
 
