@@ -44,7 +44,7 @@ Order matters with variable assignment.
 	age = 14
 	name = Jimmy
 	
-	introducction = "Hi my name is #{name}, and I am #{age} years old.
+	introduction = "Hi my name is #{name}, and I am #{age} years old.
 
 What do you think Ruby will print for `introduction`?
 
