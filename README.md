@@ -38,6 +38,10 @@ We can also incorporate our variables into strings using **concatenation**.
 	print "The weather today is " + weather
 	>> "The weather today is sunny!"
 
+Ruby uses the addition sign here to push these two strings into one!		
+
+
+
 Variables can be assigned to any data type, not just strings. We can also interpolate integers inside strings: 
 
 	year = 2016
